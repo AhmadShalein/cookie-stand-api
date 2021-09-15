@@ -1,7 +1,7 @@
 import fire
 import requests
 
-API_HOST = "http://localhost:8000"
+API_HOST = "https://git.heroku.com/cookie-stand-api-ahmad-shalein.git"
 RESOURCE_URI = "cookiestands"
 USERNAME = "admin"
 PASSWORD = "admin"
